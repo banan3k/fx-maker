@@ -1,0 +1,17 @@
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\bin\Debug\f(x) maker.exe
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\bin\Debug\f(x) maker.pdb
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\obj\x86\Debug\f_x__maker.Form1.resources
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\obj\x86\Debug\f_x__maker.Properties.Resources.resources
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\obj\x86\Debug\f(x) maker.csproj.GenerateResource.Cache
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\obj\x86\Debug\f(x) maker.exe
+C:\Users\Szymon\AppData\Local\Temporary Projects\f(x) maker\obj\x86\Debug\f(x) maker.pdb
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f(x) maker.exe
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f(x) maker.pdb
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\bin\Debug\f(x) maker.exe
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\bin\Debug\f(x) maker.pdb
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f_x__maker.Properties.Resources.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f(x) maker.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f_x__maker.Form1.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f(x) maker.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f_x__maker.Kalkulator.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Debug\f_x__maker.Instrukcja.resources

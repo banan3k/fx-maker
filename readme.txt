@@ -1,0 +1,1 @@
+.exe file packed in "/bin" folder

@@ -1,0 +1,10 @@
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\bin\Release\f(x) maker.exe
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\bin\Release\f(x) maker.pdb
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f_x__maker.Form1.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f_x__maker.Kalkulator.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f_x__maker.Properties.Resources.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f(x) maker.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f(x) maker.exe
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f(x) maker.pdb
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f_x__maker.Instrukcja.resources
+C:\Users\Szymon\Desktop\Studia\Mat2Tab\f(x) maker\f(x) maker\obj\x86\Release\f(x) maker.csprojResolveAssemblyReference.cache
